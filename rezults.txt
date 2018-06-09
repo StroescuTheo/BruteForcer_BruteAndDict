@@ -675,3 +675,11 @@ Passwrod to find is sandra
 Passwrod to find is helpme
  -> Found with brute force helpme And it took 0:03:59.877105 seconds 
 Passwrod to find is qwertyui
+ ##This takes too long, ignoring## And it took 0:05:00.273812 seconds 
+Passwrod to find is victor
+ -> Discoverd with Dictionary victor And it took 0:00:00.270242 seconds 
+Passwrod to find is florida
+ -> Discoverd with Dictionary florida And it took 0:00:00.089729 seconds 
+Passwrod to find is dolphin
+ -> Discoverd with Dictionary dolphin And it took 0:00:00.074807 seconds 
+Passwrod to find is pookie
