@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+import time
+import datetime
 import string
+
 ALLOWED_CHARACTERS = string.ascii_lowercase+string.digits
 NUMBER_OF_CHARACTERS = len(ALLOWED_CHARACTERS)
-#w = open("rezults.txt", "a")
+#w = open("rezults2.txt", "a")
 def characterToIndex(char):
     return ALLOWED_CHARACTERS.index(char)
 
@@ -22,12 +24,11 @@ def next(string):
         if characterToIndex(string[0]) is 0:
             return list(string[0]) + next(string[1:])
     return string
-import time
-import datetime
+
 
 def test_for_dictionary(password):
     with open("english.txt","r") as f:
-        w=open("rezults.txt","a")
+        w=open("rezults2.txt","a")
         x=f.readline()
         x=x.strip()
         x=x.lower()
@@ -48,15 +49,8 @@ def brute_force(x):
     sequence = list()
     cur_len = 1
     start=datetime.datetime.now()
-    time_break=time.time()+60*5
-    w=open("rezults.txt","a")
-    #print(ALLOWED_CHARACTERS)
-    '''
-    Digit=0
-    Alfa=1
-    Digit+alpha=2
-    '''
-    mode=0
+    time_break=time.time()+1
+    w=open("rezults2.txt","a")
     global ALLOWED_CHARACTERS
     global NUMBER_OF_CHARACTERS
     ALLOWED_CHARACTERS=string.digits
@@ -90,13 +84,6 @@ def brute_force(x):
             w.write(" ##This takes too long, ignoring##")
             w.close()
             return 0
-
-
-            #print(ALLOWED_CHARACTERS)
-
-        #print(test)
-        #from time import sleep
-        #sleep(0.05)
         if (    test == x):
             print("Brute Force attack Password is ", test)
             w.write(" -> Found with brute force ")
@@ -113,11 +100,12 @@ def brute_force(x):
 
 def main():
     all_program_start=datetime.datetime.now()
-    nr_pass_found=0
+    nr_pass_found_brute=0
+    nr_paass_found_dic=0
     f = open("passwords.txt", "r")
     x="s"
     while(x):
-        w=open("rezults.txt","a")
+        w=open("rezults2.txt","a")
         x = f.readline()
         start=datetime.datetime.now()
         print("Password to find", x)
@@ -128,20 +116,26 @@ def main():
         found=test_for_dictionary(x)
         if found==0:
             if brute_force(x):
-                nr_pass_found+=1
-
+                nr_pass_found_brute+=1
+        else:
+            nr_paass_found_dic+=1
         finish = datetime.datetime.now()
-        w=open("rezults.txt","a")
+        w=open("rezults2.txt","a")
         w.write(" And it took ")
         w.write(str(finish -start))
         w.write(" seconds \n")
         w.close()
     all_program_finish=datetime.datetime.now()
-    w= open("rezults.txt","a")
+    w= open("rezults2.txt","a")
     w.write("\n Found ")
-    w.write(nr_pass_found)
+    w.write(str(nr_pass_found_brute+nr_paass_found_dic))
     w.write(" in ")
     w.write(str(all_program_finish-all_program_start))
+    w.write("\nOut of which ")
+    w.write(str(nr_paass_found_dic))
+    w.write(" where dictionary and ")
+    w.write(str(nr_pass_found_brute))
+    w.write(" where brute")
     w.close()
 if __name__ == "__main__":
     main()
