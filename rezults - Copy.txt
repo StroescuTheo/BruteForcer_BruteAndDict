@@ -1,0 +1,811 @@
+Passwrod to find is test
+ -> Discoverd with Dictionary test And it took 0:00:00.228390 seconds 
+Passwrod to find is test
+ -> Discoverd with Dictionary test And it took 0:00:00.227425 seconds 
+Passwrod to find is te
+ -> Discoverd with Dictionary te And it took 0:00:00.227424 seconds 
+Passwrod to find is dragon
+ -> Discoverd with Dictionary dragon And it took 0:00:00.067819 seconds 
+Passwrod to find is misfit
+ -> Discoverd with Dictionary misfit And it took 0:00:00.139627 seconds 
+Passwrod to find is lool
+ -> Found with brute force lool And it took 0:00:00.759075 seconds 
+Passwrod to find is ds23
+ -> Found with brute force ds23 And it took 0:00:03.418888 seconds 
+Passwrod to find is password
+ -> Discoverd with Dictionary password And it took 0:00:00.166555 seconds 
+Passwrod to find is 123456
+ -> Found with brute force 123456 And it took 0:02:12.293944 seconds 
+Passwrod to find is qwerty
+ -> Discoverd with Dictionary qwerty And it took 0:00:00.197472 seconds 
+Passwrod to find is 12345
+ -> Found with brute force 12345 And it took 0:00:04.109030 seconds 
+Passwrod to find is 1234
+ -> Found with brute force 1234 And it took 0:00:00.393964 seconds 
+Passwrod to find is 111111
+ -> Found with brute force 111111 And it took 0:02:07.915373 seconds 
+Passwrod to find is 1234567
+ ##This takes too long, ignoring## And it took 0:05:00.270911 seconds 
+Passwrod to find is drago
+ -> Discoverd with Dictionary drago And it took 0:00:00.068801 seconds 
+Passwrod to find is 123123
+ -> Found with brute force 123123 And it took 0:02:06.357040 seconds 
+Passwrod to find is baseball
+ -> Discoverd with Dictionary baseball And it took 0:00:00.026818 seconds 
+Passwrod to find is abc123
+ ##This takes too long, ignoring## And it took 0:05:00.283228 seconds 
+Passwrod to find is football
+ -> Discoverd with Dictionary football And it took 0:00:00.089760 seconds 
+Passwrod to find is monkey
+ -> Discoverd with Dictionary monkey And it took 0:00:00.150596 seconds 
+Passwrod to find is letmein
+ ##This takes too long, ignoring## And it took 0:05:00.284596 seconds 
+Passwrod to find is 696969
+ -> Found with brute force 696969 And it took 0:02:08.623564 seconds 
+Passwrod to find is shadow
+ -> Discoverd with Dictionary shadow And it took 0:00:00.213428 seconds 
+Passwrod to find is master
+ -> Discoverd with Dictionary master And it took 0:00:00.141621 seconds 
+Passwrod to find is 666666
+ -> Found with brute force 666666 And it took 0:02:08.332451 seconds 
+Passwrod to find is 123321
+ -> Found with brute force 123321 And it took 0:02:07.151981 seconds 
+Passwrod to find is mustang
+ -> Discoverd with Dictionary mustang And it took 0:00:00.146619 seconds 
+Passwrod to find is michael
+ -> Discoverd with Dictionary michael And it took 0:00:00.143616 seconds 
+Passwrod to find is 654321
+ -> Found with brute force 654321 And it took 0:02:06.889083 seconds 
+Passwrod to find is pussy
+ -> Discoverd with Dictionary pussy And it took 0:00:00.189492 seconds 
+Passwrod to find is superman
+ -> Discoverd with Dictionary superman And it took 0:00:00.241347 seconds 
+Passwrod to find is 1qaz2wsx
+ ##This takes too long, ignoring## And it took 0:05:00.276100 seconds 
+Passwrod to find is 7777777
+ ##This takes too long, ignoring## And it took 0:05:00.276920 seconds 
+Passwrod to find is fuckyou
+ ##This takes too long, ignoring## And it took 0:05:00.270500 seconds 
+Passwrod to find is 121212
+ -> Found with brute force 121212 And it took 0:02:02.027903 seconds 
+Passwrod to find is 000000
+ -> Found with brute force 000000 And it took 0:00:04.054192 seconds 
+Passwrod to find is qazwsx
+ ##This takes too long, ignoring## And it took 0:05:00.265722 seconds 
+Passwrod to find is 123qwe
+ ##This takes too long, ignoring## And it took 0:05:00.258532 seconds 
+Passwrod to find is killer
+ -> Discoverd with Dictionary killer And it took 0:00:00.116721 seconds 
+Passwrod to find is trustno1
+ ##This takes too long, ignoring## And it took 0:05:00.281337 seconds 
+Passwrod to find is jordan
+ -> Discoverd with Dictionary jordan And it took 0:00:00.116140 seconds 
+Passwrod to find is jennifer
+ -> Discoverd with Dictionary jennifer And it took 0:00:00.121674 seconds 
+Passwrod to find is zxcvbnm
+ ##This takes too long, ignoring## And it took 0:05:00.263744 seconds 
+Passwrod to find is asdfgh
+ -> Found with brute force asdfgh And it took 0:04:39.492560 seconds 
+Passwrod to find is hunter
+ -> Discoverd with Dictionary hunter And it took 0:00:00.110736 seconds 
+Passwrod to find is buster
+ -> Discoverd with Dictionary buster And it took 0:00:00.037899 seconds 
+Passwrod to find is soccer
+ -> Discoverd with Dictionary soccer And it took 0:00:00.221407 seconds 
+Passwrod to find is harley
+ -> Discoverd with Dictionary harley And it took 0:00:00.100699 seconds 
+Passwrod to find is batman
+ -> Discoverd with Dictionary batman And it took 0:00:00.027926 seconds 
+Passwrod to find is andrew
+ -> Discoverd with Dictionary andrew And it took 0:00:00.016955 seconds 
+Passwrod to find is tigger
+ -> Discoverd with Dictionary tigger And it took 0:00:00.235365 seconds 
+Passwrod to find is sunshine
+ -> Discoverd with Dictionary sunshine And it took 0:00:00.232365 seconds 
+Passwrod to find is iloveyou
+ ##This takes too long, ignoring## And it took 0:05:00.274901 seconds 
+Passwrod to find is fuckme
+ -> Found with brute force fuckme And it took 0:03:46.114994 seconds 
+Passwrod to find is 2000
+ -> Found with brute force 2000 And it took 0:00:00.371007 seconds 
+Passwrod to find is charlie
+ -> Discoverd with Dictionary charlie And it took 0:00:00.042885 seconds 
+Passwrod to find is robert
+ -> Discoverd with Dictionary robert And it took 0:00:00.204428 seconds 
+Passwrod to find is thomas
+ -> Discoverd with Dictionary thomas And it took 0:00:00.231140 seconds 
+Passwrod to find is hockey
+ -> Discoverd with Dictionary hockey And it took 0:00:00.105742 seconds 
+Passwrod to find is ranger
+ -> Discoverd with Dictionary ranger And it took 0:00:00.200463 seconds 
+Passwrod to find is daniel
+ -> Discoverd with Dictionary daniel And it took 0:00:00.060835 seconds 
+Passwrod to find is starwars
+ ##This takes too long, ignoring## And it took 0:05:00.272308 seconds 
+Passwrod to find is klaster
+ ##This takes too long, ignoring## And it took 0:05:00.260892 seconds 
+Passwrod to find is 112233
+ -> Found with brute force 112233 And it took 0:02:01.418263 seconds 
+Passwrod to find is george
+ -> Discoverd with Dictionary george And it took 0:00:00.091755 seconds 
+Passwrod to find is asshole
+ -> Discoverd with Dictionary asshole And it took 0:00:00.021973 seconds 
+Passwrod to find is computer
+ -> Discoverd with Dictionary computer And it took 0:00:00.051893 seconds 
+Passwrod to find is michelle
+ -> Discoverd with Dictionary michelle And it took 0:00:00.146607 seconds 
+Passwrod to find is jessica
+ -> Discoverd with Dictionary jessica And it took 0:00:00.119681 seconds 
+Passwrod to find is pepper
+ -> Discoverd with Dictionary pepper And it took 0:00:00.171521 seconds 
+Passwrod to find is 1111
+ -> Found with brute force 1111 And it took 0:00:00.377022 seconds 
+Passwrod to find is zxcvbn
+ ##This takes too long, ignoring## And it took 0:05:00.277233 seconds 
+Passwrod to find is 555555
+ -> Found with brute force 555555 And it took 0:02:01.605408 seconds 
+Passwrod to find is 11111111
+ ##This takes too long, ignoring## And it took 0:05:00.261849 seconds 
+Passwrod to find is 131313
+ -> Found with brute force 131313 And it took 0:02:00.998113 seconds 
+Passwrod to find is freedom
+ -> Discoverd with Dictionary freedom And it took 0:00:00.087757 seconds 
+Passwrod to find is 777777
+ -> Found with brute force 777777 And it took 0:02:01.749497 seconds 
+Passwrod to find is pass
+ -> Discoverd with Dictionary pass And it took 0:00:00.159604 seconds 
+Passwrod to find is fuck
+ -> Discoverd with Dictionary fuck And it took 0:00:00.094747 seconds 
+Passwrod to find is maggie
+ -> Discoverd with Dictionary maggie And it took 0:00:00.132668 seconds 
+Passwrod to find is 159753
+ -> Found with brute force 159753 And it took 0:02:01.340695 seconds 
+Passwrod to find is aaaaaa
+ -> Discoverd with Dictionary aaaaaa And it took 0:00:00.008011 seconds 
+Passwrod to find is ginger
+ -> Discoverd with Dictionary ginger And it took 0:00:00.091732 seconds 
+Passwrod to find is princess
+ -> Discoverd with Dictionary princess And it took 0:00:00.179488 seconds 
+Passwrod to find is joshua
+ -> Discoverd with Dictionary joshua And it took 0:00:00.133612 seconds 
+Passwrod to find is cheese
+ -> Discoverd with Dictionary cheese And it took 0:00:00.045910 seconds 
+Passwrod to find is amanda
+ -> Discoverd with Dictionary amanda And it took 0:00:00.016953 seconds 
+Passwrod to find is summer
+ -> Discoverd with Dictionary summer And it took 0:00:00.245344 seconds 
+Passwrod to find is love
+ -> Discoverd with Dictionary love And it took 0:00:00.142620 seconds 
+Passwrod to find is ashley
+ -> Discoverd with Dictionary ashley And it took 0:00:00.026953 seconds 
+Passwrod to find is 6969
+ -> Found with brute force 6969 And it took 0:00:00.400928 seconds 
+Passwrod to find is nicole
+ -> Discoverd with Dictionary nicole And it took 0:00:00.146640 seconds 
+Passwrod to find is chelsea
+ -> Discoverd with Dictionary chelsea And it took 0:00:00.051870 seconds 
+Passwrod to find is biteme
+ -> Found with brute force biteme And it took 0:03:45.680083 seconds 
+Passwrod to find is matthew
+ -> Discoverd with Dictionary matthew And it took 0:00:00.135650 seconds 
+Passwrod to find is access
+ -> Discoverd with Dictionary access And it took 0:00:00.008964 seconds 
+Passwrod to find is yankees
+ -> Discoverd with Dictionary yankees And it took 0:00:00.109759 seconds 
+Passwrod to find is 987654321
+ ##This takes too long, ignoring## And it took 0:05:00.270415 seconds 
+Passwrod to find is dallas
+ -> Discoverd with Dictionary dallas And it took 0:00:00.064859 seconds 
+Passwrod to find is austin
+ -> Discoverd with Dictionary austin And it took 0:00:00.022965 seconds 
+Passwrod to find is thunder
+ -> Discoverd with Dictionary thunder And it took 0:00:00.230405 seconds 
+Passwrod to find is taylor
+ -> Discoverd with Dictionary taylor And it took 0:00:00.223434 seconds 
+Passwrod to find is matrix
+ -> Discoverd with Dictionary matrix And it took 0:00:00.131681 seconds 
+Passwrod to find is william
+ -> Discoverd with Dictionary william And it took 0:00:00.264293 seconds 
+Passwrod to find is corvette
+ -> Discoverd with Dictionary corvette And it took 0:00:00.056844 seconds 
+Passwrod to find is hello
+ -> Discoverd with Dictionary hello And it took 0:00:00.107743 seconds 
+Passwrod to find is martin
+ -> Discoverd with Dictionary martin And it took 0:00:00.137629 seconds 
+Passwrod to find is heather
+ -> Discoverd with Dictionary heather And it took 0:00:00.099733 seconds 
+Passwrod to find is secret
+ -> Discoverd with Dictionary secret And it took 0:00:00.209441 seconds 
+Passwrod to find is fucker
+ -> Discoverd with Dictionary fucker And it took 0:00:00.090787 seconds 
+Passwrod to find is merlin
+ -> Discoverd with Dictionary merlin And it took 0:00:00.139619 seconds 
+Passwrod to find is diamond
+ -> Discoverd with Dictionary diamond And it took 0:00:00.067818 seconds 
+Passwrod to find is 1234qwer
+ ##This takes too long, ignoring## And it took 0:05:00.274671 seconds 
+Passwrod to find is gfhjkm
+ ##This takes too long, ignoring## And it took 0:05:00.354451 seconds 
+Passwrod to find is hammer
+ -> Discoverd with Dictionary hammer And it took 0:00:00.105259 seconds 
+Passwrod to find is silver
+ -> Discoverd with Dictionary silver And it took 0:00:00.223904 seconds 
+Passwrod to find is 222222
+ -> Found with brute force 222222 And it took 0:02:10.972696 seconds 
+Passwrod to find is 88888888
+ ##This takes too long, ignoring## And it took 0:05:00.280334 seconds 
+Passwrod to find is anthony
+ -> Discoverd with Dictionary anthony And it took 0:00:00.018981 seconds 
+Passwrod to find is justin
+ -> Discoverd with Dictionary justin And it took 0:00:00.125633 seconds 
+Passwrod to find is test
+ -> Discoverd with Dictionary test And it took 0:00:00.241886 seconds 
+Passwrod to find is bailey
+ -> Discoverd with Dictionary bailey And it took 0:00:00.027958 seconds 
+Passwrod to find is q1w2e3r4t5
+ ##This takes too long, ignoring## And it took 0:05:00.288611 seconds 
+Passwrod to find is patrick
+ -> Discoverd with Dictionary patrick And it took 0:00:00.174332 seconds 
+Passwrod to find is internet
+ -> Discoverd with Dictionary internet And it took 0:00:00.125701 seconds 
+Passwrod to find is scooter
+ -> Discoverd with Dictionary scooter And it took 0:00:00.211991 seconds 
+Passwrod to find is orange
+ -> Discoverd with Dictionary orange And it took 0:00:00.166554 seconds 
+Passwrod to find is 11111
+ -> Found with brute force 11111 And it took 0:00:04.157834 seconds 
+Passwrod to find is golfer
+ -> Discoverd with Dictionary golfer And it took 0:00:00.100731 seconds 
+Passwrod to find is cookie
+ -> Discoverd with Dictionary cookie And it took 0:00:00.057881 seconds 
+Passwrod to find is richard
+ -> Discoverd with Dictionary richard And it took 0:00:00.204451 seconds 
+Passwrod to find is samantha
+ -> Discoverd with Dictionary samantha And it took 0:00:00.209403 seconds 
+Passwrod to find is bigdog
+ -> Found with brute force bigdog And it took 0:04:35.594775 seconds 
+Passwrod to find is guitar
+ -> Discoverd with Dictionary guitar And it took 0:00:00.097739 seconds 
+Passwrod to find is jackson
+ -> Discoverd with Dictionary jackson And it took 0:00:00.121674 seconds 
+Passwrod to find is whatever
+ -> Discoverd with Dictionary whatever And it took 0:00:00.260311 seconds 
+Passwrod to find is mickey
+ -> Discoverd with Dictionary mickey And it took 0:00:00.137638 seconds 
+Passwrod to find is chicken
+ -> Discoverd with Dictionary chicken And it took 0:00:00.045886 seconds 
+Passwrod to find is sparky
+ -> Discoverd with Dictionary sparky And it took 0:00:00.223402 seconds 
+Passwrod to find is snoopy
+ -> Discoverd with Dictionary snoopy And it took 0:00:00.232352 seconds 
+Passwrod to find is maverick
+ -> Discoverd with Dictionary maverick And it took 0:00:00.135636 seconds 
+Passwrod to find is phoenix
+ -> Discoverd with Dictionary phoenix And it took 0:00:00.173536 seconds 
+Passwrod to find is camaro
+ ##This takes too long, ignoring## And it took 0:05:00.270877 seconds 
+Passwrod to find is sexy
+ -> Discoverd with Dictionary sexy And it took 0:00:00.216422 seconds 
+Passwrod to find is peanut
+ -> Discoverd with Dictionary peanut And it took 0:00:00.172513 seconds 
+Passwrod to find is morgan
+ -> Discoverd with Dictionary morgan And it took 0:00:00.150597 seconds 
+Passwrod to find is welcome
+ -> Discoverd with Dictionary welcome And it took 0:00:00.272285 seconds 
+Passwrod to find is falcon
+ -> Discoverd with Dictionary falcon And it took 0:00:00.086768 seconds 
+Passwrod to find is cowboy
+ -> Discoverd with Dictionary cowboy And it took 0:00:00.060804 seconds 
+Passwrod to find is ferrari
+ -> Discoverd with Dictionary ferrari And it took 0:00:00.096742 seconds 
+Passwrod to find is samsung
+ ##This takes too long, ignoring## And it took 0:05:00.273393 seconds 
+Passwrod to find is andrea
+ -> Discoverd with Dictionary andrea And it took 0:00:00.019945 seconds 
+Passwrod to find is smokey
+ -> Discoverd with Dictionary smokey And it took 0:00:00.229372 seconds 
+Passwrod to find is steelers
+ -> Discoverd with Dictionary steelers And it took 0:00:00.229417 seconds 
+Passwrod to find is joseph
+ -> Discoverd with Dictionary joseph And it took 0:00:00.120701 seconds 
+Passwrod to find is mercedes
+ -> Discoverd with Dictionary mercedes And it took 0:00:00.146608 seconds 
+Passwrod to find is dakota
+ -> Discoverd with Dictionary dakota And it took 0:00:00.061866 seconds 
+Passwrod to find is arsenal
+ -> Discoverd with Dictionary arsenal And it took 0:00:00.021946 seconds 
+Passwrod to find is eagles
+ -> Discoverd with Dictionary eagles And it took 0:00:00.072838 seconds 
+Passwrod to find is melissa
+ -> Discoverd with Dictionary melissa And it took 0:00:00.147604 seconds 
+Passwrod to find is boomer
+ -> Discoverd with Dictionary boomer And it took 0:00:00.034907 seconds 
+Passwrod to find is booboo
+ -> Discoverd with Dictionary booboo And it took 0:00:00.036902 seconds 
+Passwrod to find is spider
+ -> Discoverd with Dictionary spider And it took 0:00:00.218418 seconds 
+Passwrod to find is nascar
+ -> Discoverd with Dictionary nascar And it took 0:00:00.151595 seconds 
+Passwrod to find is monster
+ -> Discoverd with Dictionary monster And it took 0:00:00.156580 seconds 
+Passwrod to find is tigers
+ -> Discoverd with Dictionary tigers And it took 0:00:00.237365 seconds 
+Passwrod to find is yellow
+ -> Discoverd with Dictionary yellow And it took 0:00:00.119707 seconds 
+Passwrod to find is xxxxxx
+ ##This takes too long, ignoring## And it took 0:05:00.274728 seconds 
+Passwrod to find is 123123123
+ ##This takes too long, ignoring## And it took 0:05:00.263101 seconds 
+Passwrod to find is gateway
+ -> Discoverd with Dictionary gateway And it took 0:00:00.103722 seconds 
+Passwrod to find is marina
+ -> Discoverd with Dictionary marina And it took 0:00:00.139591 seconds 
+Passwrod to find is diablo
+ -> Discoverd with Dictionary diablo And it took 0:00:00.071808 seconds 
+Passwrod to find is bulldog
+ -> Discoverd with Dictionary bulldog And it took 0:00:00.039896 seconds 
+Passwrod to find is qwer1234
+ ##This takes too long, ignoring## And it took 0:05:00.279730 seconds 
+Passwrod to find is compaq
+ ##This takes too long, ignoring## And it took 0:05:00.276045 seconds 
+Passwrod to find is purple
+ -> Discoverd with Dictionary purple And it took 0:00:00.208415 seconds 
+Passwrod to find is hardcore
+ -> Discoverd with Dictionary hardcore And it took 0:00:00.107712 seconds 
+Passwrod to find is banana
+ -> Discoverd with Dictionary banana And it took 0:00:00.029918 seconds 
+Passwrod to find is junior
+ -> Discoverd with Dictionary junior And it took 0:00:00.153562 seconds 
+Passwrod to find is hannah
+ -> Discoverd with Dictionary hannah And it took 0:00:00.127659 seconds 
+Passwrod to find is 123654
+ -> Found with brute force 123654 And it took 0:02:10.860399 seconds 
+Passwrod to find is porsche
+ ##This takes too long, ignoring## And it took 0:05:00.298313 seconds 
+Passwrod to find is lakers
+ -> Discoverd with Dictionary lakers And it took 0:00:00.123645 seconds 
+Passwrod to find is iceman
+ -> Discoverd with Dictionary iceman And it took 0:00:00.114694 seconds 
+Passwrod to find is money
+ -> Discoverd with Dictionary money And it took 0:00:00.149595 seconds 
+Passwrod to find is cowboys
+ -> Discoverd with Dictionary cowboys And it took 0:00:00.058872 seconds 
+Passwrod to find is 987654
+ -> Found with brute force 987654 And it took 0:02:08.125517 seconds 
+Passwrod to find is london
+ -> Discoverd with Dictionary london And it took 0:00:00.130650 seconds 
+Passwrod to find is tennis
+ -> Discoverd with Dictionary tennis And it took 0:00:00.246375 seconds 
+Passwrod to find is 999999
+ -> Found with brute force 999999 And it took 0:02:07.802959 seconds 
+Passwrod to find is ncc1701
+ ##This takes too long, ignoring## And it took 0:05:00.263955 seconds 
+Passwrod to find is coffee
+ -> Discoverd with Dictionary coffee And it took 0:00:00.059842 seconds 
+Passwrod to find is scooby
+ ##This takes too long, ignoring## And it took 0:05:00.270768 seconds 
+Passwrod to find is 0000
+ -> Found with brute force 0000 And it took 0:00:00.283218 seconds 
+Passwrod to find is miller
+ -> Discoverd with Dictionary miller And it took 0:00:00.142614 seconds 
+Passwrod to find is boston
+ -> Discoverd with Dictionary boston And it took 0:00:00.036898 seconds 
+Passwrod to find is q1w2e3r4
+ ##This takes too long, ignoring## And it took 0:05:00.278733 seconds 
+Passwrod to find is fuckoff
+ ##This takes too long, ignoring## And it took 0:05:00.269779 seconds 
+Passwrod to find is brandon
+ -> Discoverd with Dictionary brandon And it took 0:00:00.035928 seconds 
+Passwrod to find is yamaha
+ -> Discoverd with Dictionary yamaha And it took 0:00:00.112698 seconds 
+Passwrod to find is chester
+ -> Discoverd with Dictionary chester And it took 0:00:00.047848 seconds 
+Passwrod to find is mother
+ -> Discoverd with Dictionary mother And it took 0:00:00.148633 seconds 
+Passwrod to find is forever
+ -> Discoverd with Dictionary forever And it took 0:00:00.091776 seconds 
+Passwrod to find is johnny
+ -> Discoverd with Dictionary johnny And it took 0:00:00.122670 seconds 
+Passwrod to find is edward
+ -> Discoverd with Dictionary edward And it took 0:00:00.079819 seconds 
+Passwrod to find is 333333
+ -> Found with brute force 333333 And it took 0:02:03.664222 seconds 
+Passwrod to find is oliver
+ -> Discoverd with Dictionary oliver And it took 0:00:00.156588 seconds 
+Passwrod to find is redsox
+ ##This takes too long, ignoring## And it took 0:05:00.266794 seconds 
+Passwrod to find is player
+ -> Discoverd with Dictionary player And it took 0:00:00.169578 seconds 
+Passwrod to find is nikita
+ -> Discoverd with Dictionary nikita And it took 0:00:00.150363 seconds 
+Passwrod to find is knight
+ -> Discoverd with Dictionary knight And it took 0:00:00.122665 seconds 
+Passwrod to find is fender
+ -> Discoverd with Dictionary fender And it took 0:00:00.084797 seconds 
+Passwrod to find is barney
+ -> Discoverd with Dictionary barney And it took 0:00:00.027924 seconds 
+Passwrod to find is midnight
+ -> Discoverd with Dictionary midnight And it took 0:00:00.140623 seconds 
+Passwrod to find is please
+ -> Discoverd with Dictionary please And it took 0:00:00.180502 seconds 
+Passwrod to find is brandy
+ -> Discoverd with Dictionary brandy And it took 0:00:00.035904 seconds 
+Passwrod to find is chicago
+ -> Discoverd with Dictionary chicago And it took 0:00:00.046875 seconds 
+Passwrod to find is badboy
+ ##This takes too long, ignoring## And it took 0:05:00.266763 seconds 
+Passwrod to find is iwantu
+ ##This takes too long, ignoring## And it took 0:05:00.259807 seconds 
+Passwrod to find is slayer
+ -> Discoverd with Dictionary slayer And it took 0:00:00.207420 seconds 
+Passwrod to find is rangers
+ -> Discoverd with Dictionary rangers And it took 0:00:00.182501 seconds 
+Passwrod to find is charles
+ -> Discoverd with Dictionary charles And it took 0:00:00.045862 seconds 
+Passwrod to find is angel
+ -> Discoverd with Dictionary angel And it took 0:00:00.016925 seconds 
+Passwrod to find is flower
+ -> Discoverd with Dictionary flower And it took 0:00:00.086754 seconds 
+Passwrod to find is bigdaddy
+ ##This takes too long, ignoring## And it took 0:05:00.267783 seconds 
+Passwrod to find is rabbit
+ -> Discoverd with Dictionary rabbit And it took 0:00:00.180541 seconds 
+Passwrod to find is wizard
+ -> Discoverd with Dictionary wizard And it took 0:00:00.261296 seconds 
+Passwrod to find is bigdick
+ ##This takes too long, ignoring## And it took 0:05:00.261324 seconds 
+Passwrod to find is jasper
+ -> Discoverd with Dictionary jasper And it took 0:00:00.114693 seconds 
+Passwrod to find is enter
+ -> Discoverd with Dictionary enter And it took 0:00:00.073784 seconds 
+Passwrod to find is rachel
+ -> Discoverd with Dictionary rachel And it took 0:00:00.187498 seconds 
+Passwrod to find is chris
+ -> Discoverd with Dictionary chris And it took 0:00:00.046907 seconds 
+Passwrod to find is steven
+ -> Discoverd with Dictionary steven And it took 0:00:00.218415 seconds 
+Passwrod to find is winner
+ -> Discoverd with Dictionary winner And it took 0:00:00.258296 seconds 
+Passwrod to find is adidas
+ ##This takes too long, ignoring## And it took 0:05:00.259244 seconds 
+Passwrod to find is victoria
+ -> Discoverd with Dictionary victoria And it took 0:00:00.244560 seconds 
+Passwrod to find is natasha
+ -> Discoverd with Dictionary natasha And it took 0:00:00.140624 seconds 
+Passwrod to find is 1q2w3e4r
+ ##This takes too long, ignoring## And it took 0:05:00.265662 seconds 
+Passwrod to find is jasmine
+ -> Discoverd with Dictionary jasmine And it took 0:00:00.119711 seconds 
+Passwrod to find is winter
+ -> Discoverd with Dictionary winter And it took 0:00:00.273437 seconds 
+Passwrod to find is prince
+ -> Discoverd with Dictionary prince And it took 0:00:00.191459 seconds 
+Passwrod to find is panties
+ -> Discoverd with Dictionary panties And it took 0:00:00.171576 seconds 
+Passwrod to find is marine
+ -> Discoverd with Dictionary marine And it took 0:00:00.138616 seconds 
+Passwrod to find is ghbdtn
+ ##This takes too long, ignoring## And it took 0:05:00.285623 seconds 
+Passwrod to find is fishing
+ -> Discoverd with Dictionary fishing And it took 0:00:00.085912 seconds 
+Passwrod to find is cocacola
+ ##This takes too long, ignoring## And it took 0:05:00.259814 seconds 
+Passwrod to find is casper
+ -> Discoverd with Dictionary casper And it took 0:00:00.041880 seconds 
+Passwrod to find is james
+ -> Discoverd with Dictionary james And it took 0:00:00.114707 seconds 
+Passwrod to find is 232323
+ -> Found with brute force 232323 And it took 0:02:02.223658 seconds 
+Passwrod to find is raiders
+ -> Discoverd with Dictionary raiders And it took 0:00:00.189492 seconds 
+Passwrod to find is 888888
+ -> Found with brute force 888888 And it took 0:02:04.559112 seconds 
+Passwrod to find is marlboro
+ -> Discoverd with Dictionary marlboro And it took 0:00:00.129646 seconds 
+Passwrod to find is gandalf
+ ##This takes too long, ignoring## And it took 0:05:00.262737 seconds 
+Passwrod to find is asdfasdf
+ ##This takes too long, ignoring## And it took 0:05:00.290736 seconds 
+Passwrod to find is crystal
+ -> Discoverd with Dictionary crystal And it took 0:00:00.059842 seconds 
+Passwrod to find is 87654321
+ ##This takes too long, ignoring## And it took 0:05:00.263409 seconds 
+Passwrod to find is 12344321
+ ##This takes too long, ignoring## And it took 0:05:00.281117 seconds 
+Passwrod to find is sexsex
+ ##This takes too long, ignoring## And it took 0:05:00.279451 seconds 
+Passwrod to find is golden
+ -> Discoverd with Dictionary golden And it took 0:00:00.094742 seconds 
+Passwrod to find is blowme
+ -> Found with brute force blowme And it took 0:03:58.702425 seconds 
+Passwrod to find is bigtits
+ ##This takes too long, ignoring## And it took 0:05:00.307136 seconds 
+Passwrod to find is 8675309
+ ##This takes too long, ignoring## And it took 0:05:00.274731 seconds 
+Passwrod to find is panther
+ -> Discoverd with Dictionary panther And it took 0:00:00.163562 seconds 
+Passwrod to find is lauren
+ -> Discoverd with Dictionary lauren And it took 0:00:00.130650 seconds 
+Passwrod to find is angela
+ -> Discoverd with Dictionary angela And it took 0:00:00.018953 seconds 
+Passwrod to find is bitch
+ -> Discoverd with Dictionary bitch And it took 0:00:00.032942 seconds 
+Passwrod to find is spanky
+ -> Discoverd with Dictionary spanky And it took 0:00:00.218385 seconds 
+Passwrod to find is thx1138
+ ##This takes too long, ignoring## And it took 0:05:00.263781 seconds 
+Passwrod to find is angels
+ -> Discoverd with Dictionary angels And it took 0:00:00.017920 seconds 
+Passwrod to find is madison
+ -> Discoverd with Dictionary madison And it took 0:00:00.131617 seconds 
+Passwrod to find is winston
+ -> Discoverd with Dictionary winston And it took 0:00:00.266288 seconds 
+Passwrod to find is shannon
+ -> Discoverd with Dictionary shannon And it took 0:00:00.206447 seconds 
+Passwrod to find is mike
+ -> Discoverd with Dictionary mike And it took 0:00:00.136646 seconds 
+Passwrod to find is toyota
+ -> Discoverd with Dictionary toyota And it took 0:00:00.236400 seconds 
+Passwrod to find is blowjob
+ -> Discoverd with Dictionary blowjob And it took 0:00:00.033909 seconds 
+Passwrod to find is jordan23
+ ##This takes too long, ignoring## And it took 0:05:00.267762 seconds 
+Passwrod to find is canada
+ -> Discoverd with Dictionary canada And it took 0:00:00.041915 seconds 
+Passwrod to find is sophie
+ -> Discoverd with Dictionary sophie And it took 0:00:00.232374 seconds 
+Passwrod to find is Password
+ ##This takes too long, ignoring## And it took 0:05:00.329025 seconds 
+Passwrod to find is apples
+ -> Discoverd with Dictionary apples And it took 0:00:00.021961 seconds 
+Passwrod to find is dick
+ -> Discoverd with Dictionary dick And it took 0:00:00.068817 seconds 
+Passwrod to find is tiger
+ -> Discoverd with Dictionary tiger And it took 0:00:00.242972 seconds 
+Passwrod to find is razz
+ -> Discoverd with Dictionary razz And it took 0:00:00.189492 seconds 
+Passwrod to find is 123abc
+ ##This takes too long, ignoring## And it took 0:05:00.268223 seconds 
+Passwrod to find is pokemon
+ ##This takes too long, ignoring## And it took 0:05:00.269149 seconds 
+Passwrod to find is qazxsw
+ ##This takes too long, ignoring## And it took 0:05:00.278732 seconds 
+Passwrod to find is 55555
+ -> Found with brute force 55555 And it took 0:00:04.166851 seconds 
+Passwrod to find is qwaszx
+ ##This takes too long, ignoring## And it took 0:05:00.273765 seconds 
+Passwrod to find is muffin
+ -> Discoverd with Dictionary muffin And it took 0:00:00.152625 seconds 
+Passwrod to find is johnson
+ -> Discoverd with Dictionary johnson And it took 0:00:00.131638 seconds 
+Passwrod to find is murphy
+ -> Discoverd with Dictionary murphy And it took 0:00:00.153589 seconds 
+Passwrod to find is cooper
+ -> Discoverd with Dictionary cooper And it took 0:00:00.057845 seconds 
+Passwrod to find is jonathan
+ -> Discoverd with Dictionary jonathan And it took 0:00:00.120676 seconds 
+Passwrod to find is liverpoo
+ ##This takes too long, ignoring## And it took 0:05:00.276117 seconds 
+Passwrod to find is david
+ -> Discoverd with Dictionary david And it took 0:00:00.064826 seconds 
+Passwrod to find is danielle
+ -> Discoverd with Dictionary danielle And it took 0:00:00.067818 seconds 
+Passwrod to find is 159357
+ -> Found with brute force 159357 And it took 0:02:14.640763 seconds 
+Passwrod to find is jackie
+ -> Discoverd with Dictionary jackie And it took 0:00:00.123667 seconds 
+Passwrod to find is 1990
+ -> Found with brute force 1990 And it took 0:00:00.395966 seconds 
+Passwrod to find is 123456a
+ ##This takes too long, ignoring## And it took 0:05:00.285263 seconds 
+Passwrod to find is 789456
+ -> Found with brute force 789456 And it took 0:02:08.829680 seconds 
+Passwrod to find is turtle
+ -> Discoverd with Dictionary turtle And it took 0:00:00.244346 seconds 
+Passwrod to find is horny
+ -> Discoverd with Dictionary horny And it took 0:00:00.106738 seconds 
+Passwrod to find is abcd1234
+ ##This takes too long, ignoring## And it took 0:05:00.267036 seconds 
+Passwrod to find is scorpion
+ -> Discoverd with Dictionary scorpion And it took 0:00:00.210428 seconds 
+Passwrod to find is qazwsxedc
+ ##This takes too long, ignoring## And it took 0:05:00.268782 seconds 
+Passwrod to find is 101010
+ -> Found with brute force 101010 And it took 0:02:06.680311 seconds 
+Passwrod to find is butter
+ -> Discoverd with Dictionary butter And it took 0:00:00.040890 seconds 
+Passwrod to find is carlos
+ -> Discoverd with Dictionary carlos And it took 0:00:00.042885 seconds 
+Passwrod to find is password1
+ ##This takes too long, ignoring## And it took 0:05:00.297523 seconds 
+Passwrod to find is dennis
+ -> Discoverd with Dictionary dennis And it took 0:00:00.064826 seconds 
+Passwrod to find is slipknot
+ -> Discoverd with Dictionary slipknot And it took 0:00:00.209438 seconds 
+Passwrod to find is qwerty123
+ ##This takes too long, ignoring## And it took 0:05:00.260958 seconds 
+Passwrod to find is booger
+ -> Discoverd with Dictionary booger And it took 0:00:00.034906 seconds 
+Passwrod to find is asdf
+ -> Found with brute force asdf And it took 0:00:00.552562 seconds 
+Passwrod to find is 1991
+ -> Found with brute force 1991 And it took 0:00:00.369061 seconds 
+Passwrod to find is black
+ -> Discoverd with Dictionary black And it took 0:00:00.032911 seconds 
+Passwrod to find is startrek
+ ##This takes too long, ignoring## And it took 0:05:00.262119 seconds 
+Passwrod to find is 12341234
+ ##This takes too long, ignoring## And it took 0:05:00.295048 seconds 
+Passwrod to find is cameron
+ -> Discoverd with Dictionary cameron And it took 0:00:00.042844 seconds 
+Passwrod to find is newyork
+ ##This takes too long, ignoring## And it took 0:05:00.279569 seconds 
+Passwrod to find is rainbow
+ -> Discoverd with Dictionary rainbow And it took 0:00:00.180517 seconds 
+Passwrod to find is nathan
+ -> Discoverd with Dictionary nathan And it took 0:00:00.143615 seconds 
+Passwrod to find is john
+ -> Discoverd with Dictionary john And it took 0:00:00.118683 seconds 
+Passwrod to find is 1992
+ -> Found with brute force 1992 And it took 0:00:00.376991 seconds 
+Passwrod to find is rocket
+ -> Discoverd with Dictionary rocket And it took 0:00:00.199469 seconds 
+Passwrod to find is viking
+ -> Discoverd with Dictionary viking And it took 0:00:00.257041 seconds 
+Passwrod to find is redskins
+ -> Discoverd with Dictionary redskins And it took 0:00:00.188478 seconds 
+Passwrod to find is butthead
+ ##This takes too long, ignoring## And it took 0:05:00.275807 seconds 
+Passwrod to find is asdfghjkl
+ ##This takes too long, ignoring## And it took 0:05:00.285970 seconds 
+Passwrod to find is 1212
+ -> Found with brute force 1212 And it took 0:00:00.440821 seconds 
+Passwrod to find is sierra
+ -> Discoverd with Dictionary sierra And it took 0:00:00.248335 seconds 
+Passwrod to find is peaches
+ -> Discoverd with Dictionary peaches And it took 0:00:00.233391 seconds 
+Passwrod to find is gemini
+ -> Discoverd with Dictionary gemini And it took 0:00:00.123668 seconds 
+Passwrod to find is doctor
+ -> Discoverd with Dictionary doctor And it took 0:00:00.082779 seconds 
+Passwrod to find is wilson
+ -> Discoverd with Dictionary wilson And it took 0:00:00.366022 seconds 
+Passwrod to find is sandra
+ -> Discoverd with Dictionary sandra And it took 0:00:00.231382 seconds 
+Passwrod to find is helpme
+ -> Found with brute force helpme And it took 0:03:59.877105 seconds 
+Passwrod to find is qwertyui
+ ##This takes too long, ignoring## And it took 0:05:00.273812 seconds 
+Passwrod to find is victor
+ -> Discoverd with Dictionary victor And it took 0:00:00.270242 seconds 
+Passwrod to find is florida
+ -> Discoverd with Dictionary florida And it took 0:00:00.089729 seconds 
+Passwrod to find is dolphin
+ -> Discoverd with Dictionary dolphin And it took 0:00:00.074807 seconds 
+Passwrod to find is pookie
+ -> Found with brute force pookie And it took 0:03:57.210134 seconds 
+Passwrod to find is captain
+ -> Discoverd with Dictionary captain And it took 0:00:00.042642 seconds 
+Passwrod to find is tucker
+ -> Discoverd with Dictionary tucker And it took 0:00:00.276262 seconds 
+Passwrod to find is blue
+ -> Discoverd with Dictionary blue And it took 0:00:00.037897 seconds 
+Passwrod to find is liverpool
+ -> Discoverd with Dictionary liverpool And it took 0:00:00.155582 seconds 
+Passwrod to find is theman
+ ##This takes too long, ignoring## And it took 0:05:00.281791 seconds 
+Passwrod to find is bandit
+ -> Discoverd with Dictionary bandit And it took 0:00:00.026946 seconds 
+Passwrod to find is dolphins
+ -> Discoverd with Dictionary dolphins And it took 0:00:00.076781 seconds 
+Passwrod to find is maddog
+ -> Found with brute force maddog And it took 0:04:50.573211 seconds 
+Passwrod to find is packers
+ -> Discoverd with Dictionary packers And it took 0:00:00.164591 seconds 
+Passwrod to find is jaguar
+ -> Discoverd with Dictionary jaguar And it took 0:00:00.129625 seconds 
+Passwrod to find is lovers
+ -> Discoverd with Dictionary lovers And it took 0:00:00.134670 seconds 
+Passwrod to find is nicholas
+ -> Discoverd with Dictionary nicholas And it took 0:00:00.151628 seconds 
+Passwrod to find is united
+ -> Discoverd with Dictionary united And it took 0:00:00.262295 seconds 
+Passwrod to find is tiffany
+ -> Discoverd with Dictionary tiffany And it took 0:00:00.256315 seconds 
+Passwrod to find is maxwell
+ -> Discoverd with Dictionary maxwell And it took 0:00:00.143628 seconds 
+Passwrod to find is zzzzzz
+ ##This takes too long, ignoring## And it took 0:05:00.288935 seconds 
+Passwrod to find is nirvana
+ -> Discoverd with Dictionary nirvana And it took 0:00:00.152623 seconds 
+Passwrod to find is jeremy
+ -> Discoverd with Dictionary jeremy And it took 0:00:00.129653 seconds 
+Passwrod to find is suckit
+ ##This takes too long, ignoring## And it took 0:05:00.278911 seconds 
+Passwrod to find is stupid
+ -> Discoverd with Dictionary stupid And it took 0:00:00.235366 seconds 
+Passwrod to find is porn
+ -> Discoverd with Dictionary porn And it took 0:00:00.186503 seconds 
+Passwrod to find is monica
+ -> Discoverd with Dictionary monica And it took 0:00:00.154533 seconds 
+Passwrod to find is elephant
+ -> Discoverd with Dictionary elephant And it took 0:00:00.080800 seconds 
+Passwrod to find is giants
+ -> Discoverd with Dictionary giants And it took 0:00:00.098735 seconds 
+Passwrod to find is jackass
+ -> Discoverd with Dictionary jackass And it took 0:00:00.126365 seconds 
+Passwrod to find is hotdog
+ -> Discoverd with Dictionary hotdog And it took 0:00:00.120710 seconds 
+Passwrod to find is rosebud
+ -> Discoverd with Dictionary rosebud And it took 0:00:00.213458 seconds 
+Passwrod to find is success
+ -> Discoverd with Dictionary success And it took 0:00:00.236369 seconds 
+Passwrod to find is debbie
+ -> Discoverd with Dictionary debbie And it took 0:00:00.070778 seconds 
+Passwrod to find is mountain
+ -> Discoverd with Dictionary mountain And it took 0:00:00.153594 seconds 
+Passwrod to find is 444444
+ -> Found with brute force 444444 And it took 0:02:10.944898 seconds 
+Passwrod to find is xxxxxxxx
+ ##This takes too long, ignoring## And it took 0:05:00.274207 seconds 
+Passwrod to find is warrior
+ -> Discoverd with Dictionary warrior And it took 0:00:00.294245 seconds 
+Passwrod to find is 1q2w3e4r5t
+ ##This takes too long, ignoring## And it took 0:05:00.285787 seconds 
+Passwrod to find is q1w2e3
+ ##This takes too long, ignoring## And it took 0:05:00.280855 seconds 
+Passwrod to find is 123456q
+ ##This takes too long, ignoring## And it took 0:05:00.282419 seconds 
+Passwrod to find is albert
+ -> Discoverd with Dictionary albert And it took 0:00:00.014994 seconds 
+Passwrod to find is metallic
+ -> Discoverd with Dictionary metallic And it took 0:00:00.146617 seconds 
+Passwrod to find is lucky
+ -> Discoverd with Dictionary lucky And it took 0:00:00.139620 seconds 
+Passwrod to find is azerty
+ ##This takes too long, ignoring## And it took 0:05:00.286669 seconds 
+Passwrod to find is 7777
+ -> Found with brute force 7777 And it took 0:00:00.416890 seconds 
+Passwrod to find is shithead
+ -> Discoverd with Dictionary shithead And it took 0:00:00.223012 seconds 
+Passwrod to find is alex
+ -> Discoverd with Dictionary alex And it took 0:00:00.014960 seconds 
+Passwrod to find is bond007
+ ##This takes too long, ignoring## And it took 0:05:00.278083 seconds 
+Passwrod to find is alexis
+ -> Discoverd with Dictionary alexis And it took 0:00:00.015956 seconds 
+Passwrod to find is 1111111
+ ##This takes too long, ignoring## And it took 0:05:00.280529 seconds 
+Passwrod to find is samson
+ -> Discoverd with Dictionary samson And it took 0:00:00.205425 seconds 
+Passwrod to find is 5150
+ -> Found with brute force 5150 And it took 0:00:00.394944 seconds 
+Passwrod to find is willie
+ -> Discoverd with Dictionary willie And it took 0:00:00.273818 seconds 
+Passwrod to find is scorpio
+ -> Discoverd with Dictionary scorpio And it took 0:00:00.214399 seconds 
+Passwrod to find is bonnie
+ -> Discoverd with Dictionary bonnie And it took 0:00:00.035936 seconds 
+Passwrod to find is gators
+ -> Discoverd with Dictionary gators And it took 0:00:00.096773 seconds 
+Passwrod to find is benjamin
+ -> Discoverd with Dictionary benjamin And it took 0:00:00.030956 seconds 
+Passwrod to find is voodoo
+ -> Discoverd with Dictionary voodoo And it took 0:00:00.282254 seconds 
+Passwrod to find is driver
+ -> Discoverd with Dictionary driver And it took 0:00:00.080783 seconds 
+Passwrod to find is dexter
+ -> Discoverd with Dictionary dexter And it took 0:00:00.068802 seconds 
+Passwrod to find is 2112
+ -> Found with brute force 2112 And it took 0:00:00.401957 seconds 
+Passwrod to find is jason
+ -> Discoverd with Dictionary jason And it took 0:00:00.125665 seconds 
+Passwrod to find is calvin
+ -> Discoverd with Dictionary calvin And it took 0:00:00.042886 seconds 
+Passwrod to find is freddy
+ -> Discoverd with Dictionary freddy And it took 0:00:00.094747 seconds 
+Passwrod to find is 212121
+ -> Found with brute force 212121 And it took 0:02:07.493172 seconds 
+Passwrod to find is creative
+ -> Discoverd with Dictionary creative And it took 0:00:00.061821 seconds 
+Passwrod to find is 12345a
